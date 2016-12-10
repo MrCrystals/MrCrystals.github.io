@@ -8,3 +8,9 @@
 .dno {
           float: bottom;
 }
+
+.lifeline {
+          border: 2px;
+          background-color: darkgreen;
+          margin: 30px;         
+}
