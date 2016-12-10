@@ -1,4 +1,6 @@
 logo {
-float: left;
-
+          float: left;
+          position: relative;
+          top: -130px;
+          left: 30px;
 }
