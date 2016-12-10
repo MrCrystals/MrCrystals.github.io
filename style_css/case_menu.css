@@ -1,0 +1,16 @@
+.case_milspec {
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 15px;
+}
+.case_milspec:hover {
+    background-color: #fc0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 15px;
+}
