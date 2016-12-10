@@ -11,6 +11,8 @@
 
 .lifeline {
           border: 2px;
+          border-color: white;
           background-color: darkgreen;
-          margin: 30px;         
+          margin: 5px;      
+          padding: 40px;
 }
