@@ -1,4 +1,4 @@
-.case_milspec {
+.case {
     cursor: pointer;
     width: 256px;
     background-color: #4C58FF;
@@ -8,7 +8,7 @@
     padding-right: 20px;
     margin: 15px;
 }
-.case_milspec:hover {
+.case:hover {
     cursor: pointer;
     width: 256px;
     background-color: #7593FF;
