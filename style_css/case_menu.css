@@ -1,6 +1,7 @@
 .case {
     cursor: pointer;
-    width: 256px;
+    height: 250px;
+    width: 180px;
     background-color: #7130FF;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -12,7 +13,8 @@
 }
 .case:hover {
     cursor: pointer;
-    width: 256px;
+    height: 250px;
+    width: 180px;
     background-color: #A149FF;
     padding-top: 10px;
     padding-bottom: 10px;
