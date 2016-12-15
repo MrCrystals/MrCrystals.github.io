@@ -3,7 +3,7 @@
     height: 250px;
     width: 180px;
     display: block;
-    background-color: #7130FF;
+    background-color: #3D3C3D;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -17,7 +17,7 @@
     height: 250px;
     width: 180px;
     display: block;
-    background-color: #A149FF;
+    background-color: #545354;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -39,5 +39,5 @@ strong {
     font-weight: none;
     text-decoration: none;
     font-size: 120%;
-    color: #FFFF3D;
+    color: #EF851A;
 }
