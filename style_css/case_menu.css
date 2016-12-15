@@ -36,6 +36,9 @@ strong {
     font-family: Corbel, "Lucida Sans", sans-serif;
     font-weight: none;
     text-decoration: none;
-    font-size: 120%;
+    font-size: 140%;
     color: #EF851A;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
