@@ -2,23 +2,27 @@
     cursor: pointer;
     width: 200px;
     height: 244px;
-    display: block;
+    display: inline-block;
     background-color: #3D3C3D;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-clip: padding-box;
     font-weight: none;
     text-decoration: none;
+    text-align: center;
 }
 .case:hover {
     cursor: pointer;
     width: 200px;
     height: 244px;
-    display: block;
+    display: inline-block;
     background-color: #545354;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-clip: padding-box;
     font-weight: none;
     text-decoration: none;
+    text-align: center;
 }
 .case_picture {
     width: 200px;
