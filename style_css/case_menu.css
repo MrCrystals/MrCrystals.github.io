@@ -1,30 +1,27 @@
 .case {
     cursor: pointer;
-    height: 250px;
-    width: 180px;
+    width: 200px;
+    height: 244px;
     display: block;
     background-color: #3D3C3D;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-weight: none;
     text-decoration: none;
 }
 .case:hover {
     cursor: pointer;
-    height: 250px;
-    width: 180px;
+    width: 200px;
+    height: 244px;
     display: block;
     background-color: #545354;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-weight: none;
     text-decoration: none;
 }
 .case_picture {
+    width: 200px;
     cursor: pointer;
     padding-top: 4px;
     padding-bottom: 12px;
@@ -32,13 +29,13 @@
     padding-right: 10px;
 }
 strong {
+    width: 200px;
     color: rgb(49, 151, 116);
     font-family: Corbel, "Lucida Sans", sans-serif;
     font-weight: none;
     text-decoration: none;
     font-size: 140%;
     color: #EF851A;
-    padding-top: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-bottom: 10px;
+
 }
