@@ -2,7 +2,7 @@
     cursor: pointer;
     width: 200px;
     height: 244px;
-    display: inline-block;
+    display: block;
     background-color: #3D3C3D;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -15,7 +15,7 @@
     cursor: pointer;
     width: 200px;
     height: 244px;
-    display: inline-block;
+    display: block;
     background-color: #545354;
     padding-top: 20px;
     padding-bottom: 20px;
