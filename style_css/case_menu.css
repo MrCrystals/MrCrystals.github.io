@@ -4,6 +4,7 @@
     height: 244px;
     display: inline-block;
     background-color: #3D3C3D;
+    transform: translateX(0px) translateY(0px);
     padding-top: 20px;
     padding-bottom: 20px;
     background-clip: padding-box;
@@ -17,6 +18,7 @@
     height: 244px;
     display: inline-block;
     background-color: #545354;
+    transform: translateX(0px) translateY(0px);
     padding-top: 20px;
     padding-bottom: 20px;
     background-clip: padding-box;
