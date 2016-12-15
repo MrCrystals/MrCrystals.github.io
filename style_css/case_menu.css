@@ -29,4 +29,6 @@ strong {
     color: rgb(49, 151, 116);
     font-family: Corbel, "Lucida Sans", sans-serif;
     font-weight: none;
+    text-decoration: none;
+    font-size: 200%;
 }
