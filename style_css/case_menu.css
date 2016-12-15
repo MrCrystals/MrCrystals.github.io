@@ -18,3 +18,13 @@
     padding-right: 20px;
     margin: 15px;
 }
+.case_picture {
+    cursor: pointer;
+    padding-top: 4px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+strong {
+    color: rgb(49, 151, 116);
+}
