@@ -11,6 +11,7 @@
     font-weight: none;
     text-decoration: none;
     text-align: center;
+    margin: 0;
 }
 .case:hover {
     cursor: pointer;
@@ -25,6 +26,7 @@
     font-weight: none;
     text-decoration: none;
     text-align: center;
+    margin: 0;
 }
 .case_picture {
     width: 160px;
