@@ -3,7 +3,7 @@
     width: 200px;
     height: 244px;
     display: inline-block;
-    background-color: #3D3C3D;
+    background-color: rgba(110, 119, 128, 0.67);
     transform: translateX(0px) translateY(0px);
     padding-top: 20px;
     padding-bottom: 20px;
@@ -18,7 +18,7 @@
     width: 200px;
     height: 244px;
     display: inline-block;
-    background-color: #545354;
+    background-color: rgba(82, 96, 150, 0.6);
     transform: translateX(0px) translateY(0px);
     padding-top: 20px;
     padding-bottom: 20px;
@@ -34,7 +34,8 @@
     padding-top: 4px;
     padding-left: 20px;
     padding-right: 20px;
-    background: transparent url(../images/case/CaseShadow.png) no-repeat 50% 50%;
+    background: rgba(0, 0, 0, 0) url(../images/case/CaseShadow.png) no-repeat 50% 50%;
+    background-size: auto 250px;
 }
 strong {
     font-family: Corbel, "Lucida Sans", sans-serif;
