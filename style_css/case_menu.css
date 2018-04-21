@@ -12,7 +12,7 @@
     text-decoration: none;
     text-align: center;
     margin-bottom: 4px;
-    border-radius: 4px;
+    border-radius: 8px;
 }
 .case:hover {
     cursor: pointer;
@@ -28,7 +28,7 @@
     text-decoration: none;
     text-align: center;
     margin-bottom: 4px;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 .case_picture {
     width: 160px;
